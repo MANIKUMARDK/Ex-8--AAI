@@ -1,5 +1,5 @@
- <H3>ENTER YOUR NAME : RIYA P L</H3>
-<H3>ENTER YOUR REGISTER NO : 212223240141</H3>
+ <H3>ENTER YOUR NAME : Manikumar DK</H3>
+<H3>ENTER YOUR REGISTER NO : 212223230121</H3>
 <H3>EX. NO.8</H3>
 <H3>DATE: 20.05.2026</H3>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
@@ -53,7 +53,7 @@ except Exception as e:
 
 <H3> Output:</H3>
 
-<img width="792" height="95" alt="image" src="https://github.com/user-attachments/assets/a3a000ee-c803-4c29-8129-b31d4bfa192c" />
+<img width="792" height="95" alt="596183854-a3a000ee-c803-4c29-8129-b31d4bfa192c" src="https://github.com/user-attachments/assets/a2c3c8cf-41ea-457e-8dff-194c3e61005a" />
 
 
 <H3> Result:</H3>
